@@ -13,7 +13,7 @@ Hi! My name is Cheng Peng, a master student  in the School of Computer Science a
 
 #### ⭐️ Libraries and Frameworks:
 
-  React, WebGL, D3.js ...
+  React, D3.js, WebGL ...
 
 <br/>
 

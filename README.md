@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! My name is Cheng Peng, a master student in [IDEAS Lab](https://ideaslab.wang/), Shandong University, interested in information visualization and web development.
+Hi! My name is Cheng Peng, a master student in Shandong University, interested in information visualization and web development.
 
 <br/>
 

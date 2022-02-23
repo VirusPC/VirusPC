@@ -2,10 +2,18 @@
 
 Hi! My name is Cheng Peng, a master student  in the School of Computer Science and Technology at the Shandong University, interested in information visualization and web development.
 
-<br/>
-
 - 🔭 I’m currently working on  [IDEAS Laboratory](https://github.com/Ideas-Laboratory)
 - 📫 How to reach me: cheng.peng.helloworld@gmail.com
+
+<br/>
+
+## 🔥 Languages:
+
+TypeScript, JavaScript, Java, Python, C++, MySQL, Matlab
+
+## ⭐️ Libraries and Frameworks:
+
+React, WebGL, D3.js ...
 
 <br/>
 

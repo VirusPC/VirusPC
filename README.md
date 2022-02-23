@@ -11,7 +11,7 @@ Hi! My name is Cheng Peng, a master student  in the School of Computer Science a
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viruspc&theme=blueberry" />
+    <img align="center" src="https://github-readme-stats-lac-eta.vercel.app/api/top-langs/?username=viruspc&theme=blueberry&hide=html" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@ Hi! My name is Cheng Peng, a master student  in the School of Computer Science a
 
 <p align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=viruspc&theme=cobalt&count_private=true&hide=matlab" />
+    <img align="center" src="https://github-readme-stats-lac-eta.vercel.app/api?username=viruspc&theme=cobalt&count_private=true" />
   </a>
 </p>
 

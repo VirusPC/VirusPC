@@ -5,7 +5,7 @@ Hi! My name is Cheng Peng, a master student  in the School of Computer Science a
 - 🔭 I’m currently working on  [IDEAS Lab](https://github.com/Ideas-Laboratory)
 - 📝 I'm looking for a job about front-end developement
 - 📫 How to reach me: cheng.peng.helloworld@gmail.com
-- :pencil2: Blog: [my blog](viruspc.github.io/blog), [yuque](https://www.yuque.com/pengcheng-fuigs)
+- :pencil2: Blog: [my blog](https://viruspc.github.io/blog), [yuque](https://www.yuque.com/pengcheng-fuigs)
 
 
 #### 🔥 Languages:

@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi! My name is Cheng Peng, a master student interested in information visualization and web development.
+
+<br/>
+
+- 🔭 I’m currently working on  [IDEAS Laboratory](https://github.com/Ideas-Laboratory)
+- 📫 How to reach me: cheng.peng.helloworld@gmail.com
+
 <!--
 **VirusPC/VirusPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

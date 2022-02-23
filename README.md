@@ -2,7 +2,7 @@
 
 Hi! My name is Cheng Peng, a master student  in the School of Computer Science and Technology at the Shandong University, interested in information visualization (visualization grammar, large-scale data visualization) and web development.
 
-- 🔭 I’m currently working on  [IDEAS Laboratory](https://github.com/Ideas-Laboratory)
+- 🔭 I’m currently working on  [IDEAS Lab](https://github.com/Ideas-Laboratory)
 - 📫 How to reach me: cheng.peng.helloworld@gmail.com
 
 

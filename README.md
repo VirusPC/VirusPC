@@ -7,13 +7,13 @@ Hi! My name is Cheng Peng, a master student  in the School of Computer Science a
 
 <br/>
 
-## 🔥 Languages:
+#### 🔥 Languages:
 
-TypeScript, JavaScript, Java, Python, C++, MySQL, Matlab
+  TypeScript, JavaScript, Java, Python, C++, MySQL, Matlab
 
-## ⭐️ Libraries and Frameworks:
+#### ⭐️ Libraries and Frameworks:
 
-React, WebGL, D3.js ...
+  React, WebGL, D3.js ...
 
 <br/>
 

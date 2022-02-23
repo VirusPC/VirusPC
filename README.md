@@ -9,6 +9,8 @@ Hi! My name is Cheng Peng, a master student in [IDEAS Lab](https://ideaslab.wang
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viruspc&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viruspc&theme=cobalt&count_private=true&hide=matlab)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

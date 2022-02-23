@@ -7,15 +7,21 @@ Hi! My name is Cheng Peng, a master student in [IDEAS Lab](https://ideaslab.wang
 - 🔭 I’m currently working on  [IDEAS Laboratory](https://github.com/Ideas-Laboratory)
 - 📫 How to reach me: cheng.peng.helloworld@gmail.com
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viruspc&theme=blueberry" />
-</a>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viruspc&theme=blueberry" />
+  </a>
+</p>
 
 <br/>
-  
-<a href="https://github.com/anuraghazra/github-readme-stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viruspc&theme=cobalt&count_private=true&hide=matlab" />
-</a>
+
+<p align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=viruspc&theme=cobalt&count_private=true&hide=matlab" />
+  </a>
+</p>
 
 <!--
 **VirusPC/VirusPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

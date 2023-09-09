@@ -16,8 +16,8 @@ Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://g
   React, D3.js, WebGL, Three.js ...
 
 #### 👨🏼‍💻 Professional Experiences
-- 2023.7-今 大淘宝技术 Web 3D
-- 2022.5-2022.9 阿里云 数据可视化
+- 2023.7-now / Alibaba Taotian Group / Web 3D
+- 2022.5-2022.9 / Alibaba Cloud / Data Visualization 
   
 <br/>
 

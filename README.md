@@ -17,7 +17,7 @@ Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://g
 
 #### 👨🏼‍💻 Professional Experiences
 - 2023.7-now / Alibaba Taotian Group / Web 3D
-- 2022.5-2022.9 / Alibaba Cloud / Data Visualization 
+- 2022.5-2022.9 / Alibaba Cloud - DataV / Data Visualization 
   
 <br/>
 

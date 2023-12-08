@@ -4,7 +4,7 @@ Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://g
 
 - 🔭 I’m currently working on **Web 3D** and **Data Visualization**
 - 📫 How to reach me: cheng.peng.helloworld@gmail.com
-- :pencil2: Blog: [my blog](https://viruspc.github.io/blog), [yuque](https://www.yuque.com/pengcheng-fuigs)
+- 📝 Blog: [my blog](https://viruspc.github.io/blog), [yuque](https://www.yuque.com/pengcheng-fuigs)
 
 
 #### 🔥 Languages:

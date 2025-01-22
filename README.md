@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://github.com/Ideas-Laboratory), IRC, Shandong University. I'm interested in **graphics** and **web development**.
+Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://github.com/Ideas-Laboratory), [IRC](https://irc.cs.sdu.edu.cn/), Shandong University. I'm interested in **graphics** and **web development**.
 
 - 🔭 I’m currently working on **Web 3D**, **AI** and **Data Visualization**
 - 📫 How to reach me: cheng.peng.helloworld@gmail.com

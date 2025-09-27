@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://github.com/Ideas-Laboratory), [IRC](https://irc.cs.sdu.edu.cn/), Shandong University. I'm interested in **graphics** and **web development**.
+Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://github.com/Ideas-Laboratory), [IRC](https://irc.cs.sdu.edu.cn/), Shandong University. I'm interested in **AI**， **Graphics** and **Data Visualization**.
 
-- 🔭 I’m currently working on **Web 3D**, **AI** and **Data Visualization**
+- 🔭 I’m currently working on **AI Coding**
 - 📫 How to reach me: cheng.peng.helloworld@gmail.com
 - 📝 Blog: [my blog](https://viruspc.github.io/blog), [yuque](https://www.yuque.com/pengcheng-fuigs)
 
@@ -11,13 +11,20 @@ Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://g
 
   TypeScript, JavaScript, Python,  Java,  C++, C#, SQL, Matlab
 
-#### ⭐️ Libraries and Frameworks:
-
-  React, D3.js, WebGL, Three.js ...
-
 #### 👨🏼‍💻 Professional Experiences
-- 2023.7-now &nbsp;/&nbsp; Alibaba Taotian Group &nbsp;/&nbsp; Web 3D + Data Visualization
-- 2022.5-2022.9 &nbsp;/&nbsp; Alibaba Cloud - DataV &nbsp;/&nbsp; Data Visualization (Info Vis)
+||||
+|:-|:-|:-|
+|2025.10&nbsp;-&nbsp;now|Rednote - Community Tech|AI Coding|
+|2023.07&nbsp;-&nbsp;2025.10|Alibaba Taobao & Tmall Group - Tmall Tech|Web 3D, Data Visualization|
+|2022.05&nbsp;-&nbsp;2022.09|Alibaba Cloud - DataV|Data Visualization|
+
+
+
+<!--
+- 2025.10&nbsp;-&nbsp;now &nbsp;&nbsp;/&nbsp; Rednote - Community Tech &nbsp;/&nbsp; AI Coding
+- 2023.07&nbsp;-&nbsp;2025.10 &nbsp;/&nbsp; Alibaba Taobao & Tmall Group - Tmall Tech &nbsp;/&nbsp; Web 3D + Data Visualization
+- 2022.05&nbsp;-&nbsp;2022.09 &nbsp;/&nbsp; Alibaba Cloud - DataV &nbsp;/&nbsp; Data Visualization (Info Vis)
+-->
   
 <br/>
 

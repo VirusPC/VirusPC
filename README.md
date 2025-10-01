@@ -15,7 +15,7 @@ Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://g
 ||||
 |:-|:-|:-|
 |2025.10&nbsp;-&nbsp;now|Rednote - Community Tech|AI Coding|
-|2023.07&nbsp;-&nbsp;2025.10|Alibaba Taobao & Tmall Group - Tmall Tech|Web 3D, Data Visualization|
+|2023.07&nbsp;-&nbsp;2025.10|Alibaba Taobao & Tmall Group - Tmall Tech|Web 3D, Embodied Intelligence，Data Visualization|
 |2022.05&nbsp;-&nbsp;2022.09|Alibaba Cloud - DataV|Data Visualization|
 
 

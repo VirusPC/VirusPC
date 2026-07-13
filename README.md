@@ -11,7 +11,7 @@ Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://g
 
 #### 🔥 Languages:
 
-  TypeScript, JavaScript, Python,  Java,  C++, C#, SQL, Matlab
+  TypeScript, Python, Java, GLSL, C++, C#, SQL, Matlab
 
 #### 👨🏼‍💻 Professional Experiences
 ||||

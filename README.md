@@ -7,6 +7,7 @@ Hi! My name is Cheng Peng, a master student graduated from [IDEAS Lab](https://g
 - 🧠 My Brain: [edges](https://viruspc.github.io/edges-brain-viruspc/)
 - 📝 Blog: [my blog](https://viruspc.github.io/blog), [yuque](https://www.yuque.com/viruspc)
 - 🐦 Twitter: [viruspc7](https://x.com/viruspc7)
+- 📰 AI News: [AI 资讯](https://viruspc.github.io/edges-brain-viruspc/ai-news/)
 
 
 #### 🔥 Languages:
